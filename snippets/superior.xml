@@ -65,6 +65,7 @@
 <project path="packages/apps/ManagedProvisioning" name="android_packages_apps_ManagedProvisioning" remote="los" />
   <project path="packages/providers/TelephonyProvider" name="android_packages_providers_TelephonyProvider" remote="los" />
   <project path="packages/providers/TvProvider" name="android_packages_providers_TvProvider" remote="los" />
+<project path="packages/services/BuiltInPrintService" name="android_packages_services_BuiltInPrintService" remote="los" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="superior" />
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="superior" />
   <project path="packages/apps/Stk" name="android_packages_apps_Stk" remote="superior" />
@@ -173,6 +174,7 @@
   <project path="system/sepolicy" name="android_system_sepolicy" remote="superior" />
   <project path="system/vold" name="android_system_vold" remote="superior" />
   <project path="system/timezone" name="android_system_timezone" remote="los" />
+  <project path="system/security" name="android_system_security" remote="los" />
   <project path="system/nfc" name="android_system_nfc" remote="superior" />
 
   <!-- Prebuilts -->
@@ -218,6 +220,7 @@
   <project path="external/libtextclassifier" name="android_external_libtextclassifier" remote="superior" />
   <project path="external/f2fs-tools" name="android_external_f2fs-tools" remote="superior" />
 <project path="external/chromium-libpac" name="android_external_chromium-libpac" remote="los" />
+  <project path="external/ImageMagick" name="android_external_ImageMagick" remote="los" />
   <project path="external/icu" name="android_external_icu" remote="los" />
   <project path="external/skia" name="android_external_skia" remote="superior" />
 <project path="external/libcxx" name="android_external_libcxx" remote="los" />
